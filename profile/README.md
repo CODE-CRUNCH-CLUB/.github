@@ -50,16 +50,16 @@ These courses are designed with hackathon-style projects and hands-on learning t
 ## 🚪 Join Us
 Interested in becoming a member? Here’s how to get started:
 1. 🌐 Visit our [official website](https://go.fiu.edu/codecrunch).
-2. 📝 Sign up using the [membership form](https://forms.office.com/r/JEbApqq0U9).
+2. 📝 Sign up using the [membership form](https://ba-00001.github.io/codecrunchclub/all-become-a-member.html).
 3. 🔗 Follow us on [LinkedIn](https://www.linkedin.com/company/code-crunch-club/) and [Instagram](https://www.instagram.com/codecrunchclub/).
-4. 🗓️ Visit our [events page](https://go.fiu.edu/codecrunch) to see our upcoming events.
+4. 🗓️ Visit our [events page](https://ba-00001.github.io/codecrunchclub/events.html) to see our upcoming events.
 
 ---
 
 ## 🌟 Social Links
 - [🔗 LinkedIn](https://www.linkedin.com/company/code-crunch-club/)
 - [📸 Instagram](https://www.instagram.com/codecrunchclub/)
-- [💬 Discord](https://forms.office.com/r/JEbApqq0U9)
+- [💬 Discord](https://ba-00001.github.io/codecrunchclub/all-discord.html)
 - [📱 WhatsApp](https://forms.office.com/r/M5itd5FK32)
 - [🏫 Panther Connect](https://fiu.campuslabs.com/engage/organization/codecrunch)
 - [🌐 Linktree](https://linktr.ee/CODE.CRUNCH)
