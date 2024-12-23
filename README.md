@@ -4,14 +4,15 @@ Welcome to the **🌟 Code Crunch Club 🌟** repository! This is where we showc
 
 ---
 
-## 🌐 About Us
-Code Crunch is bridging global innovation with local engagement, offering a dynamic platform open to all university students, regardless of major. Join us to:
-- 🚀 **Break down barriers in technology.**
-- 💻 **Participate in hands-on coding workshops.**
-- 🤝 **Collaborate on community-driven projects.**
-- 🎓 **Prepare for the future through immersive virtual and on-campus experiences.**
+## 🌐 Welcome to Code Crunch
+Code Crunch is bridging global innovation with local engagement, offering a dynamic platform open to all university students, regardless of major—no prior experience required! Freshmen, graduates, and alumni from any university are welcome 🌍. Join us to break down barriers in technology, participate in hands-on coding workshops, collaborate on community-driven projects, and prepare for the future through immersive virtual and on-campus experiences.
 
-Whether you’re a beginner or an experienced coder, we provide the resources, mentorship, and community you need to thrive.
+Whether you’re joining us via our virtual Zoom sessions from anywhere in the world or in person right here at Florida International University, we provide the resources, mentorship, and community you need to grow as a coder and innovator.
+
+Let’s innovate together! Built and led by students, for students.
+
+### 🌟 Join the Movement:
+#CodeCrunch #CodeCrunchFIU #DiversityInTech #InclusiveTech #LeadershipOpportunities #FIUTechCommunity #WomenInSTEM #LGBTQInTech #LatinxInTech #BlackInTech #AAPIsInTech #TechLeadership #JoinOurTeam #FIUInnovation #TechForEveryone #EmpowerTech #FutureLeaders #HackerCulture #CodeYourFuture #TechDiversity #FIUPanthers #STEMOpportunities #BuildYourFuture #LeadWithCode #PanthersInTech
 
 ---
 
@@ -29,7 +30,7 @@ Our **Crunch Portfolio** includes the following nine dynamic courses:
 
 These courses are designed with hackathon-style projects and hands-on learning to help students build strong portfolios and enhance practical skills.
 
-![Code Crunch Weekly Schedule](attachment:image.png)
+![Code Crunch Weekly Schedule](https://github.com/user-attachments/assets/c87c187f-99eb-4027-8156-62cab2b8251d)
 
 ---
 
