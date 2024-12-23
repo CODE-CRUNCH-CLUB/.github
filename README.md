@@ -56,8 +56,7 @@ Interested in becoming a member? Here’s how to get started:
 
 ## Contact
 For more information, reach out to us:
-- **Email:** [ba.00001@outlook.com](mailto:ba.00001@outlook.com)
-- **President:** [Brian Bazurto](https://linkedin.com/in/IBA001)
+- **Message us on [LinkedIn](https://www.linkedin.com/company/code-crunch-club/)** 
 
 ---
 
