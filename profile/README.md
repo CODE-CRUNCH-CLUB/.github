@@ -44,7 +44,7 @@ These courses are designed with hackathon-style projects and hands-on learning t
 **📅 September 12–14, 2025**
 - 🎉 Celebrate Miami’s iconic area code with innovation and creativity.
 - 🌟 Open to all skill levels.
-📝 Applications opened december 2024 [Sign up ](https://ba-00001.github.io/codecrunchclub/all-tropical-spring-hack25.html).
+- 📝 Applications open [Sign up ](https://ba-00001.github.io/codecrunchclub/all-tropical-spring-hack25.html).
 
 ---
 
