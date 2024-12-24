@@ -39,12 +39,13 @@ These courses are designed with hackathon-style projects and hands-on learning t
 **📅 March 29–31, 2025**
 - 🌞 Daily workshops leading up to the main event.
 - 🤝 Team-based coding competition inspired by Miami's vibrant tropical energy.
+- 📝 Applications open [Sign up ](https://ba-00001.github.io/codecrunchclub/all-tropical-spring-hack25.html).
 
 ### 📍 Code Crunch - 305 Hackathon 2025
 **📅 September 12–14, 2025**
 - 🎉 Celebrate Miami’s iconic area code with innovation and creativity.
 - 🌟 Open to all skill levels.
-- 📝 Applications open [Sign up ](https://ba-00001.github.io/codecrunchclub/all-tropical-spring-hack25.html).
+
 
 ---
 
