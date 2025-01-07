@@ -30,7 +30,8 @@ Our **Crunch Portfolio** includes the following nine dynamic courses:
 
 These courses are designed with hackathon-style projects and hands-on learning to help students build strong portfolios and enhance practical skills.
 
-![Code Crunch Weekly Schedule]([https://github.com/user-attachments/assets/c87c187f-99eb-4027-8156-62cab2b8251d](https://github.com/user-attachments/assets/cbab914b-ba7d-4ba2-a011-0fa6286ee0da) 
+![Code Crunch Weekly Schedule](https://github.com/user-attachments/assets/cbab914b-ba7d-4ba2-a011-0fa6286ee0da)
+
 
 ## 💻 Repository Links
 
