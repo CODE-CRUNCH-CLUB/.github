@@ -32,6 +32,42 @@ These courses are designed with hackathon-style projects and hands-on learning t
 
 ![Code Crunch Weekly Schedule]([https://github.com/user-attachments/assets/c87c187f-99eb-4027-8156-62cab2b8251d](https://github.com/user-attachments/assets/cbab914b-ba7d-4ba2-a011-0fa6286ee0da)
 
+## 💻 Repository Links
+
+Explore and contribute to our projects! To gain access to any of these repositories, request access in the **#general-help** channel on Discord by mentioning **@Code Crunch CLUB FIU** with your GitHub username (*case-sensitive*).
+
+- **C1 | Code Crunch Convos**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos](https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos)
+
+- **C2 | CrunchTime: The Code**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C2-CrunchTime-The-Code](https://github.com/CODE-CRUNCH-CLUB/C2-CrunchTime-The-Code)
+
+- **C3 | Crunch Labs Portfolio**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C3-CRUNCH-LABS-PORTFOLIO](https://github.com/CODE-CRUNCH-CLUB/C3-CRUNCH-LABS-PORTFOLIO)
+
+- **C4 | Crunch Labs Hackathons**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C4-Crunch-Labs-Hackathons](https://github.com/CODE-CRUNCH-CLUB/C4-Crunch-Labs-Hackathons)
+
+- **C5 | Crunch AI & Data Science**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE](https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE)
+
+- **C6 | Cybersecurity Crunch**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C6-CYBERSECURITY-CRUNCH](https://github.com/CODE-CRUNCH-CLUB/C6-CYBERSECURITY-CRUNCH)
+
+- **C7 | Wire Crunch Embedded Systems**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C7-WIRE-CRUNCH-EMBEDDED-SYSTEMS](https://github.com/CODE-CRUNCH-CLUB/C7-WIRE-CRUNCH-EMBEDDED-SYSTEMS)
+
+- **C8 | Crunch Labs Web Development**:  
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C8-CRUNCH-LABS-WEB-DEV](https://github.com/CODE-CRUNCH-CLUB/C8-CRUNCH-LABS-WEB-DEV)
+
+---
+
+## 🛠️ Additional Resources
+
+Visit our website to **request access to the Google Shared Folder** for slides and additional materials:  
+👉 [https://go.fiu.edu/codecrunch](https://go.fiu.edu/codecrunch)
+
+
 ---
 
 ## 🗓️ Upcoming Hackathons
