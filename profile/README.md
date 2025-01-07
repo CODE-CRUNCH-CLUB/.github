@@ -37,29 +37,39 @@ These courses are designed with hackathon-style projects and hands-on learning t
 
 Explore and contribute to our projects! To gain access to any of these repositories, request access in the **#general-help** channel on Discord by mentioning **@Code Crunch CLUB FIU** with your GitHub username (*case-sensitive*).
 
+**Note:** These repositories are private, and you must be a member of the **Code Crunch Club organization** on GitHub to access them. If you see a **404 error**, it’s because you don’t have access yet. Please request access through Discord.
+
 - **C1 | Code Crunch Convos**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos](https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos](https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos)  
+  *If you get a 404 error, request access through Discord.*
 
 - **C2 | CrunchTime: The Code**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C2-CrunchTime-The-Code](https://github.com/CODE-CRUNCH-CLUB/C2-CrunchTime-The-Code)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C2-CrunchTime-The-Code](https://github.com/CODE-CRUNCH-CLUB/C2-CrunchTime-The-Code)  
+  *If you get a 404 error, request access through Discord.*
 
 - **C3 | Crunch Labs Portfolio**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C3-CRUNCH-LABS-PORTFOLIO](https://github.com/CODE-CRUNCH-CLUB/C3-CRUNCH-LABS-PORTFOLIO)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C3-CRUNCH-LABS-PORTFOLIO](https://github.com/CODE-CRUNCH-CLUB/C3-CRUNCH-LABS-PORTFOLIO)  
+  *If you get a 404 error, request access through Discord.*
 
 - **C4 | Crunch Labs Hackathons**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C4-Crunch-Labs-Hackathons](https://github.com/CODE-CRUNCH-CLUB/C4-Crunch-Labs-Hackathons)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C4-Crunch-Labs-Hackathons](https://github.com/CODE-CRUNCH-CLUB/C4-Crunch-Labs-Hackathons)  
+  *If you get a 404 error, request access through Discord.*
 
 - **C5 | Crunch AI & Data Science**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE](https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE](https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE)  
+  *If you get a 404 error, request access through Discord.*
 
 - **C6 | Cybersecurity Crunch**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C6-CYBERSECURITY-CRUNCH](https://github.com/CODE-CRUNCH-CLUB/C6-CYBERSECURITY-CRUNCH)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C6-CYBERSECURITY-CRUNCH](https://github.com/CODE-CRUNCH-CLUB/C6-CYBERSECURITY-CRUNCH)  
+  *If you get a 404 error, request access through Discord.*
 
 - **C7 | Wire Crunch Embedded Systems**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C7-WIRE-CRUNCH-EMBEDDED-SYSTEMS](https://github.com/CODE-CRUNCH-CLUB/C7-WIRE-CRUNCH-EMBEDDED-SYSTEMS)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C7-WIRE-CRUNCH-EMBEDDED-SYSTEMS](https://github.com/CODE-CRUNCH-CLUB/C7-WIRE-CRUNCH-EMBEDDED-SYSTEMS)  
+  *If you get a 404 error, request access through Discord.*
 
 - **C8 | Crunch Labs Web Development**:  
-  🔗 [https://github.com/CODE-CRUNCH-CLUB/C8-CRUNCH-LABS-WEB-DEV](https://github.com/CODE-CRUNCH-CLUB/C8-CRUNCH-LABS-WEB-DEV)
+  🔗 [https://github.com/CODE-CRUNCH-CLUB/C8-CRUNCH-LABS-WEB-DEV](https://github.com/CODE-CRUNCH-CLUB/C8-CRUNCH-LABS-WEB-DEV)  
+  *If you get a 404 error, request access through Discord.*
 
 ---
 
@@ -67,7 +77,6 @@ Explore and contribute to our projects! To gain access to any of these repositor
 
 Visit our website to **request access to the Google Shared Folder** for slides and additional materials:  
 👉 [https://go.fiu.edu/codecrunch](https://go.fiu.edu/codecrunch)
-
 
 
 ---
