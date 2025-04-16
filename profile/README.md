@@ -65,7 +65,7 @@ Explore and contribute to our projects! To gain access to any of these repositor
 ## 🛠️ Additional Resources
 
 Visit our website to **request access to the Google Shared Folder** for slides and additional materials:  
-👉 [https://go.fiu.edu/codecrunch](https://go.fiu.edu/codecrunch)
+👉 [https://codecrunch.cs.fiu.edu](https://codecrunch.cs.fiu.edu)
 
 ---
 
@@ -79,21 +79,20 @@ Join one of our 7 hackathons in 2025!
 
 ---
 
-## 🚪 Join Us
+## 🚪 Join Us 
 Interested in becoming a member? Here's how to get started:
-1. 🌐 Visit our [official website](https://go.fiu.edu/codecrunch)
-2. 📝 Sign up using the [membership form](https://ba-00001.github.io/codecrunchclub/all-become-a-member.html)
-3. 🔗 Follow us on [LinkedIn](https://www.linkedin.com/company/code-crunch-club/) and [Instagram](https://www.instagram.com/codecrunchclub/)
-4. 🗓️ Visit our [events page](https://ba-00001.github.io/codecrunchclub/events.html) to see our upcoming events
+1. 🌐 Visit our [official website](https://codecrunch.cs.fiu.edu)
+2. 📝 Sign up using the [membership form](https://ba-00001.github.io/codecrunchclub/community-access.html)
+3. 🗓️ Visit our [events calendar](https://lu.ma/CODECRUNCH) to see our upcoming events
 
 ---
 
-## 🌟 Connect With Us
+## 🌟 [Connect With Us](https://ba-00001.github.io/codecrunchclub/index.html#connect)
 - [🔗 LinkedIn](https://www.linkedin.com/company/code-crunch-club/)
 - [📸 Instagram](https://www.instagram.com/codecrunchclub/)
-- [📱 WhatsApp](https://forms.office.com/r/M5itd5FK32)
-- [💬 Discord](https://ba-00001.github.io/codecrunchclub/all-discord.html)
-- [🌐 Website](https://go.fiu.edu/codecrunch)
+- [📱 GroupMe](https://ba-00001.github.io/codecrunchclub/community-access.html)
+- [💬 Discord](https://ba-00001.github.io/codecrunchclub/community-access.html)
+- [🌐 Website](https://codecrunch.cs.fiu.edu)
 - [🏫 Panther Connect](https://fiu.campuslabs.com/engage/organization/codecrunch)
 
 ---
