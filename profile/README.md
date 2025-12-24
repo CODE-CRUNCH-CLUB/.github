@@ -70,18 +70,17 @@ Visit our website to **request access to the Google Shared Folder** for slides a
 ---
 
 ## 🗓️ Hackathons
-Join one of our 7 hackathons in 2025! 
+Join one of our anual hackathons ! 
 - 🆕 Check our Hacks Toolkit for resources and preparation guides
-- 🌴 **HackFiesta Miami** | **Virtual* March 21-23 - **Theme**: Global Impact, AI & Blockchain. Our spring semester flagship event
-- 🌴 **305 Hackathon Spring Edition** | **Hybrid* March 29-31 - **Theme**: Tech for Good, AI & Blockchain. Our spring semester flagship event
-- 💡 **CodeStorm** | **Virtual* March 21-23 - **Theme**: Cloud, AI & Blockchain
-- 💡 **SummerCodeX** | **Virtual* July 21-28 - **Theme**: XR, Web3, Blockchain & Decentralization
-- 📍 **305 Hackathon FALL Edition** - **Theme**: Smart Cities, DevOps, Cybersecurity & Blockchain. Celebrate Miami's iconic area code with innovation. 
-- 💡 **EmpowHER Hackathon*** | **Virtual* October 13-20 - **Theme**: Cloud, AI & Blockchain
-- 💡 **CodeFest*** | **Virtual* December 08-15 - **Theme**: End-of-Year Innovation, AI & Blockchain
+- 🌴 **HackFiesta Miami** | 
+- 🌴 **305 Hackathon Series** |
+- 💡 **CodeStorm** | 
+- 💡 **SummerCodeX** |
+- 💡 **EmpowHer** |
+- 💡 **CodeFest*** | 
 - Visit our website or social media for current dates and application details
 - All skill levels welcome!
-
+👉 [www.hackuniversity-hackathons.vercel.app](https://hackuniversity-hackathons.vercel.app/)
 ---
 
 ## 🚪 Join Us 
