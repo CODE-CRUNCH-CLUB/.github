@@ -80,6 +80,7 @@ Join one of our anual hackathons !
 - 💡 **CodeFest*** | 
 - Visit our website or social media for current dates and application details
 - All skill levels welcome!
+
 👉 [www.hackuniversity-hackathons.vercel.app](https://hackuniversity-hackathons.vercel.app/)
 ---
 
