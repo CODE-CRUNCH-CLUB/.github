@@ -1,10 +1,14 @@
 # 🎉 Code Crunch Club @ FIU 🎉
 
+👉 Website: [www.codecrunchglobal.vercel.app](https://codecrunchglobal.vercel.app/)
+
 Welcome to the **🌟 Code Crunch Club 🌟** repository! This is where we showcase our activities, projects, and initiatives aimed at empowering students with technical skills and professional opportunities.
 
 ---
 
 ## 🌐 About Code Crunch
+
+
 Code Crunch is bridging global innovation with local engagement, offering a dynamic platform open to all university students, regardless of major—no prior experience required! Freshmen, graduates, and alumni from any university are welcome 🌍. Join us to break down barriers in technology, participate in hands-on coding workshops, collaborate on community-driven projects, and prepare for the future through immersive virtual and on-campus experiences.
 
 Whether you're joining us via our virtual Zoom sessions from anywhere in the world or in person right here at Florida International University, we provide the resources, mentorship, and community you need to grow as a coder and innovator.
